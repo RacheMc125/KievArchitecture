@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://RacheMc125.github.io/KievArchitecture/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "The Cathedral of Saint Sophia, Kiev Ukraine",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This presentation shows the photographic journey of the Cathedral of Saint Sophia.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "",
+  "sequences" : [ {
+    "@id" : "http://d1d01104-e9f5-40c3-86b3-fd69741fbdc0",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c346b5a8-ddf0-4a90-9833-afeadeaa02e3",
+      "@type" : "sc:Canvas",
+      "label" : "Cyanotype of Cathedral of St. Sophia. Kiev (Kiev, Ukraine)",
+      "height" : 1444,
+      "width" : 1000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://570e32d0-2436-4186-8f3c-ae0b5f4d60f7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://rachemc125.github.io/KievArchitecture/images/Sophia/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://rachemc125.github.io/KievArchitecture/images/Sophia",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1444,
+          "width" : 1000
+        },
+        "on" : "http://c346b5a8-ddf0-4a90-9833-afeadeaa02e3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1bfca858-293a-440d-b6b7-dea24911acce",
+      "@type" : "sc:Canvas",
+      "label" : "1932 photograph of Cathedral of St. Sophia. Kiev (Kiev, Ukraine)",
+      "height" : 2600,
+      "width" : 3579,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://40ee7e06-e33c-4d75-9e4f-2468c57acb1c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://rachemc125.github.io/KievArchitecture/images/Sophia1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://rachemc125.github.io/KievArchitecture/images/Sophia1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2600,
+          "width" : 3579
+        },
+        "on" : "http://1bfca858-293a-440d-b6b7-dea24911acce"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://eb60587f-79fc-4bcb-9c18-c97098fb90d5",
+      "@type" : "sc:Canvas",
+      "label" : "1932 photograph of Cathedral of St. Sophia. Kiev (Kiev, Ukraine)",
+      "height" : 2592,
+      "width" : 3600,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6df30525-f772-4eb9-a987-2e2358d4d89a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://rachemc125.github.io/KievArchitecture/images/Sophia2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://rachemc125.github.io/KievArchitecture/images/Sophia2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2592,
+          "width" : 3600
+        },
+        "on" : "http://eb60587f-79fc-4bcb-9c18-c97098fb90d5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b3edd344-1846-429a-8f4f-f198ad4047da",
+      "@type" : "sc:Canvas",
+      "label" : "2013 photograph of Saint Sophia Cathedral in Kiev",
+      "height" : 1547,
+      "width" : 2709,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8d38fd1a-8f21-4106-974d-3255f02bcdcb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://rachemc125.github.io/KievArchitecture/images/Sophia3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://rachemc125.github.io/KievArchitecture/images/Sophia3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1547,
+          "width" : 2709
+        },
+        "on" : "http://b3edd344-1846-429a-8f4f-f198ad4047da"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
