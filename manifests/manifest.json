@@ -73,8 +73,8 @@
 				"@id": "http://eb60587f-79fc-4bcb-9c18-c97098fb90d5",
 				"@type": "sc:Canvas",
 				"label": "1932 photograph of Cathedral of St. Sophia. Kiev (Kiev, Ukraine)",
-				"height": 2592,
-				"width": 3600,
+				"height": 1547,
+				"width": 2709,
 				"images": [{
 						"@context": "http://iiif.io/api/presentation/2/context.json",
 						"@id": "http://6df30525-f772-4eb9-a987-2e2358d4d89a",
