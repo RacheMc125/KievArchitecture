@@ -98,7 +98,7 @@
 						"@type": "oa:Annotation",
 						"motivation": "sc:painting",
 						"resource": {
-							"@id": "https://rachemc125.github.io/KievArchitecture/images/Sophia3/full/full/0/default.jpg",
+							"@id": "https://rachemc125.github.io/KievArchitecture/images/Sophia3/full/!1547,2709/0/default.jpg",
 							"@type": "dctypes:Image",
 							"format": "image/jpeg",
 
