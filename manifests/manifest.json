@@ -2,6 +2,24 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://RacheMc125.github.io/KievArchitecture/manifests/manifest.json",
   "@type" : "sc:Manifest",
+	"navPlace":{
+      "id": http://example.com/feature-collection/1,
+      "type": "FeatureCollection",
+      "features":[
+         {
+            "id": http://example.com/feature/1,
+            "type": "Feature",
+            "properties":{},
+            "geometry":{
+               "type": "Point",
+               "coordinates":[
+                  50.452778, 
+                                    30.514444
+               ]
+            }
+         }
+      ]
+  },
   "label" : "The Cathedral of Saint Sophia, Kiev Ukraine",
   "metadata" : [ ],
   "description" : [ {
