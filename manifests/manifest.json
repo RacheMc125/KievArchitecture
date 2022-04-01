@@ -73,15 +73,15 @@
 				"@id": "http://6dabdb66-0b66-4b5a-9513-3c3469edbdb4",
 				"@type": "sc:Canvas",
 				"label": "1932 photograph of Cathedral of St. Sophia. Kiev (Kiev, Ukraine)",
-				"height": 2592,
-				"width": 3600,
+				"height": 1547,
+				"width": 2709,
 				"images": [{
 						"@context": "http://iiif.io/api/presentation/2/context.json",
 						"@id": "http://dc1da367-85a0-47eb-8cc0-deda3590e13c",
 						"@type": "oa:Annotation",
 						"motivation": "sc:painting",
 						"resource": {
-							"@id": "https://iiif.archivelab.org/iiif/sophia-2/full/full/0/default.jpg",
+							"@id": "https://iiif.archivelab.org/iiif/sophia-2/full/!1547,2709/0/default.jpg",
 							"@type": "dctypes:Image",
 							"format": "image/jpeg",
 							"service": {
@@ -89,8 +89,8 @@
 								"@id": "https://iiif.archivelab.org/iiif/sophia-2",
 								"profile": "http://iiif.io/api/image/2/level2.json"
 							},
-							"height": 2592,
-							"width": 3600
+							"height": 1547,
+							"width": 2709
 						},
 						"on": "http://6dabdb66-0b66-4b5a-9513-3c3469edbdb4"
 					},
@@ -98,7 +98,7 @@
 						"@type": "oa:Annotation",
 						"motivation": "sc:painting",
 						"resource": {
-							"@id": "https://iiif.archivelab.org/iiif/sophia-3/full/full/0/default.jpg",
+							"@id": "https://iiif.archivelab.org/iiif/sophia-3/full/!1547,2709/0/default.jpg",
 							"@type": "dctypes:Image",
 							"format": "image/jpeg",
 
@@ -110,7 +110,7 @@
 							"height": 1547,
 							"width": 2709
 						},
-						"on": "https://iiif.archivelab.org/iiif/sophia-2/full/full/0/default.jpg"
+						"on": "https://iiif.archivelab.org/iiif/sophia-2/full/!1547,2709/0/default.jpg"
 					}
 				],
 				"related": ""
